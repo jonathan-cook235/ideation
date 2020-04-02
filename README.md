@@ -1,2 +1,2 @@
-# ideation
-"The noblest pleasure is the joy of understanding."
+# Social Simulation
+Quantitatively modelling human social behaviour
